@@ -10,3 +10,7 @@ buildNumber.properties
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+.idea/
+CI-wc-15-01-18.iml
+src/main/resources/
+src/test/
